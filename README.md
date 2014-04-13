@@ -21,7 +21,7 @@ Note: On iPad, JHActionSheet is not showing in the center of screen, it is diffe
 
 Here is a screenshot.
 
-![ScreenShot](https://github.com/joehsieh/JHActionSheetDemo/blob/master/JHActionSheetDemo/screenShot.png?raw=true)
+![ScreenShot](https://github.com/joehsieh/JHActionSheet/blob/master/screenShot.png?raw=true)
 
 Enjoy it!
 

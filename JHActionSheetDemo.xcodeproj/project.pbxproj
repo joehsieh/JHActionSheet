@@ -21,7 +21,6 @@
 		53D5FF8C18EEC3160099CDE3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 53D5FF8A18EEC3160099CDE3 /* InfoPlist.strings */; };
 		53D5FF8E18EEC3160099CDE3 /* JHActionSheetDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 53D5FF8D18EEC3160099CDE3 /* JHActionSheetDemoTests.m */; };
 		53D5FF9918EEC36A0099CDE3 /* JHActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 53D5FF9818EEC36A0099CDE3 /* JHActionSheet.m */; };
-		53F41B4D18F0628900292E21 /* screenShot.png in Resources */ = {isa = PBXBuildFile; fileRef = 53F41B4C18F0628900292E21 /* screenShot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,7 +54,6 @@
 		53D5FF8D18EEC3160099CDE3 /* JHActionSheetDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JHActionSheetDemoTests.m; sourceTree = "<group>"; };
 		53D5FF9718EEC36A0099CDE3 /* JHActionSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JHActionSheet.h; sourceTree = "<group>"; };
 		53D5FF9818EEC36A0099CDE3 /* JHActionSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JHActionSheet.m; sourceTree = "<group>"; };
-		53F41B4C18F0628900292E21 /* screenShot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenShot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,7 +113,6 @@
 		53D5FF6818EEC3160099CDE3 /* JHActionSheetDemo */ = {
 			isa = PBXGroup;
 			children = (
-				53F41B4B18F0625F00292E21 /* screenShot */,
 				53D5FF9D18EF58350099CDE3 /* iPad */,
 				53D5FF9718EEC36A0099CDE3 /* JHActionSheet.h */,
 				53D5FF9818EEC36A0099CDE3 /* JHActionSheet.m */,
@@ -163,14 +160,6 @@
 			children = (
 			);
 			name = iPad;
-			sourceTree = "<group>";
-		};
-		53F41B4B18F0625F00292E21 /* screenShot */ = {
-			isa = PBXGroup;
-			children = (
-				53F41B4C18F0628900292E21 /* screenShot.png */,
-			);
-			name = screenShot;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -251,7 +240,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				53D5FF7B18EEC3160099CDE3 /* Images.xcassets in Resources */,
-				53F41B4D18F0628900292E21 /* screenShot.png in Resources */,
 				53D5FF6D18EEC3160099CDE3 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
